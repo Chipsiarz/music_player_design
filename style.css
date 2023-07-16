@@ -58,6 +58,8 @@ body {
 }
 
 .inner-img img {
+  height: 200px;
+  width: 200px;
   border-radius: 50%;
   animation: rotate 5s linear infinite;
   margin-bottom: 30px;
